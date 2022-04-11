@@ -400,7 +400,7 @@ function wps_theme_func_faq()
         <p><strong>OR</strong></p>
         <p>Use <code>[bangladesh_map]</code> shortcode inside your post or page.</p>
         <p><strong>OR: Use this PHP code AnyWhere In your Template or Page.</strong></p>
-        <code> <span style="color: #557799">&lt;?php</span> <span style="color: #008800; font-weight: bold">echo</span> do_shortcode(<span style="background-color: #fff0f0">&#39;[bangladesh_map]&#39;</span>); <span style="color: #557799">?&gt;</span></code>
+        <code> <span style="color: #557799">&lt;?php</span> <span style="color: #008800; font-weight: bold">echo</span> do_shortcode(&#39;[bangladesh_map]&#39;); <span style="color: #557799">?&gt;</span></code>
         <hr>
         <p><strong style="color: red;">IF you face "The page can’t be found" OR 404 Error Try These.</strong></p>
         <div class="s-prose js-post-body" itemprop="text">
