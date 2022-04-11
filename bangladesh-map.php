@@ -18,8 +18,8 @@ include(plugin_dir_path(__FILE__) . 'includes/register_page.php');
 
 function tutsplus_movie_styles()
 {
-    wp_enqueue_style('map',  plugin_dir_url(__FILE__) . '/css/map.css');
-    wp_enqueue_style('bootstrap',  plugin_dir_url(__FILE__) . '/css/bootstrap.css');
+    wp_enqueue_style('map',  plugin_dir_url(__FILE__) . 'css/map.css');
+    wp_enqueue_style('bootstrap',  plugin_dir_url(__FILE__) . 'css/bootstrap.css');
 }
 add_action('wp_enqueue_scripts', 'tutsplus_movie_styles');
 
