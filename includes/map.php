@@ -2,7 +2,7 @@
 <div id="map" class="col pt-2 pt-sm-2 pt-md-0 pt-lg-3 pt-xl-3">
     <div class="home_menu_inner map_inner_block">
         <div class="home_menu_online">
-            <div class="catTitle"><?php echo get_option('map_title') ?><span class="liner"></span></div>
+            <div class="catTitle"><?php echo get_option('map_title') ?></span></div>
         </div>
         <div class="clearfix"></div>
     </div>
