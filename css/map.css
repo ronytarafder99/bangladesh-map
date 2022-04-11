@@ -1,0 +1,251 @@
+.map_inner_block {
+    width: 100%;
+    background: #e6e6fa;
+    margin-bottom: 0;
+    position: relative
+}
+
+.map_inner {
+    background: #e6e6fa;
+    padding: 15px;
+    overflow: hidden
+}
+
+.st0 {
+    opacity: .7
+}
+
+.st1 {
+    fill: #80c2eb;
+    cursor: pointer
+}
+
+.st2 {
+    fill: none;
+    cursor: pointer
+}
+
+.st3 {
+    fill: #008c44;
+    stroke: #fff;
+    stroke-width: .75;
+    stroke-miterlimit: 10;
+    cursor: pointer
+}
+
+.st4 {
+    fill: #008c44;
+    stroke: #fff;
+    stroke-width: .75;
+    stroke-miterlimit: 10;
+    cursor: pointer
+}
+
+.st5 {
+    fill: #008c44;
+    stroke: #fff;
+    stroke-width: .75;
+    stroke-miterlimit: 10;
+    cursor: pointer
+}
+
+.st6 {
+    fill: #008c44;
+    stroke: #fff;
+    stroke-width: .75;
+    stroke-miterlimit: 10;
+    cursor: pointer
+}
+
+.st7 {
+    fill: #008c44;
+    stroke: #fff;
+    stroke-width: .75;
+    stroke-miterlimit: 10;
+    cursor: pointer
+}
+
+.st8 {
+    fill: #008c44;
+    stroke: #fff;
+    stroke-width: .75;
+    stroke-miterlimit: 10;
+    cursor: pointer
+}
+
+.st9 {
+    fill: #008c44;
+    stroke: #fff;
+    stroke-width: .75;
+    stroke-miterlimit: 10;
+    cursor: pointer
+}
+
+.st10 {
+    fill: #008c44;
+    stroke: #fff;
+    stroke-width: .75;
+    stroke-miterlimit: 10;
+    cursor: pointer
+}
+
+.st11 {
+    fill: #008c44;
+    stroke: #fff;
+    stroke-width: .75;
+    stroke-miterlimit: 10;
+    cursor: pointer
+}
+
+.st13 {
+    fill: #008c44;
+    stroke: #fff;
+    stroke-width: .25;
+    stroke-miterlimit: 10;
+    cursor: pointer
+}
+
+.st14 {
+    fill: #008c44;
+    stroke: #fff;
+    stroke-width: .75;
+    stroke-miterlimit: 10;
+    cursor: pointer
+}
+
+.st15 {
+    fill: #008c44;
+    stroke: #fff;
+    stroke-width: .25;
+    stroke-miterlimit: 10;
+    cursor: pointer
+}
+
+.st16 {
+    enable-background: new;
+    cursor: pointer
+}
+
+.st17 {
+    fill: #fff;
+    cursor: pointer
+}
+
+.st18 {
+    opacity: .34;
+    cursor: pointer
+}
+
+.st19 {
+    fill: #008c44;
+    cursor: pointer
+}
+
+#rangpur:hover path {
+    fill: #9a1515
+}
+
+#rangpur:hover path.st17 {
+    fill: #fff
+}
+
+#rangpur:hover path.st19 {
+    fill: #d5d5d5
+}
+
+#mymensingh:hover path {
+    fill: #9a1515
+}
+
+#mymensingh:hover path.st17 {
+    fill: #fff
+}
+
+#mymensingh:hover path.st19 {
+    fill: #d5d5d5
+}
+
+#sylhet:hover path {
+    fill: #9a1515
+}
+
+#sylhet:hover path.st17 {
+    fill: #fff
+}
+
+#sylhet:hover path.st19 {
+    fill: #d5d5d5
+}
+
+#rajshahi:hover path {
+    fill: #9a1515
+}
+
+#rajshahi:hover path.st17 {
+    fill: #fff
+}
+
+#rajshahi:hover path.st19 {
+    fill: #d5d5d5
+}
+
+#khulna:hover path {
+    fill: #9a1515
+}
+
+#khulna:hover path.st17 {
+    fill: #fff
+}
+
+#khulna:hover path.st19 {
+    fill: #d5d5d5
+}
+
+#borishal:hover path {
+    fill: #9a1515
+}
+
+#borishal:hover path.st17 {
+    fill: #fff
+}
+
+#borishal:hover path.st19 {
+    fill: #d5d5d5
+}
+
+#chittagong:hover path {
+    fill: #9a1515
+}
+
+#chittagong:hover path.st17 {
+    fill: #fff
+}
+
+#chittagong:hover path.st19 {
+    fill: #d5d5d5
+}
+
+#dhaka:hover path {
+    fill: #9a1515
+}
+
+#dhaka:hover path.st17 {
+    fill: #fff
+}
+
+#dhaka:hover path.st19 {
+    fill: #d5d5d5
+}
+
+div.catTitle {
+    width: 100%;
+    border-bottom: 1px solid #fe0104;
+    line-height: 36px;
+    padding: 5px 7px;
+    font-size: calc(1em + 1vw);
+}
+p.submit{margin-top: 0 !important;}
+
+#set-up-id{
+    background-color: #008c44;
+}
