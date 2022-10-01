@@ -1,31 +1,24 @@
-.map_inner_block {
-    width: 100%;
-    background: #e6e6fa;
-    margin-bottom: 0;
-    position: relative
-}
-
 .map_inner {
-    background: #e6e6fa;
-    padding: 15px;
+    background: #eff3f4;
+    padding: 15px;margin-top: 10px;
     overflow: hidden
 }
 
-.st0 {
+.wesoftpress0 {
     opacity: .7
 }
 
-.st1 {
+.wesoftpress1 {
     fill: #80c2eb;
     cursor: pointer
 }
 
-.st2 {
+.wesoftpress2 {
     fill: none;
     cursor: pointer
 }
 
-.st3 {
+.wesoftpress3 {
     fill: #008c44;
     stroke: #fff;
     stroke-width: .75;
@@ -33,7 +26,7 @@
     cursor: pointer
 }
 
-.st4 {
+.wesoftpress4 {
     fill: #008c44;
     stroke: #fff;
     stroke-width: .75;
@@ -41,7 +34,7 @@
     cursor: pointer
 }
 
-.st5 {
+.wesoftpress5 {
     fill: #008c44;
     stroke: #fff;
     stroke-width: .75;
@@ -49,7 +42,7 @@
     cursor: pointer
 }
 
-.st6 {
+.wesoftpress6 {
     fill: #008c44;
     stroke: #fff;
     stroke-width: .75;
@@ -57,7 +50,7 @@
     cursor: pointer
 }
 
-.st7 {
+.wesoftpress7 {
     fill: #008c44;
     stroke: #fff;
     stroke-width: .75;
@@ -65,7 +58,7 @@
     cursor: pointer
 }
 
-.st8 {
+.wesoftpress8 {
     fill: #008c44;
     stroke: #fff;
     stroke-width: .75;
@@ -73,7 +66,7 @@
     cursor: pointer
 }
 
-.st9 {
+.wesoftpress9 {
     fill: #008c44;
     stroke: #fff;
     stroke-width: .75;
@@ -81,7 +74,7 @@
     cursor: pointer
 }
 
-.st10 {
+.wesoftpress10 {
     fill: #008c44;
     stroke: #fff;
     stroke-width: .75;
@@ -89,7 +82,7 @@
     cursor: pointer
 }
 
-.st11 {
+.wesoftpress11 {
     fill: #008c44;
     stroke: #fff;
     stroke-width: .75;
@@ -97,7 +90,7 @@
     cursor: pointer
 }
 
-.st13 {
+.wesoftpress13 {
     fill: #008c44;
     stroke: #fff;
     stroke-width: .25;
@@ -105,7 +98,7 @@
     cursor: pointer
 }
 
-.st14 {
+.wesoftpress14 {
     fill: #008c44;
     stroke: #fff;
     stroke-width: .75;
@@ -113,7 +106,7 @@
     cursor: pointer
 }
 
-.st15 {
+.wesoftpress15 {
     fill: #008c44;
     stroke: #fff;
     stroke-width: .25;
@@ -121,22 +114,22 @@
     cursor: pointer
 }
 
-.st16 {
+.wesoftpress16 {
     enable-background: new;
     cursor: pointer
 }
 
-.st17 {
+.wesoftpress17 {
     fill: #fff;
     cursor: pointer
 }
 
-.st18 {
+.wesoftpress18 {
     opacity: .34;
     cursor: pointer
 }
 
-.st19 {
+.wesoftpress19 {
     fill: #008c44;
     cursor: pointer
 }
@@ -145,11 +138,11 @@
     fill: #9a1515
 }
 
-#rangpur:hover path.st17 {
+#rangpur:hover path.wesoftpress17 {
     fill: #fff
 }
 
-#rangpur:hover path.st19 {
+#rangpur:hover path.wesoftpress19 {
     fill: #d5d5d5
 }
 
@@ -157,11 +150,11 @@
     fill: #9a1515
 }
 
-#mymensingh:hover path.st17 {
+#mymensingh:hover path.wesoftpress17 {
     fill: #fff
 }
 
-#mymensingh:hover path.st19 {
+#mymensingh:hover path.wesoftpress19 {
     fill: #d5d5d5
 }
 
@@ -169,11 +162,11 @@
     fill: #9a1515
 }
 
-#sylhet:hover path.st17 {
+#sylhet:hover path.wesoftpress17 {
     fill: #fff
 }
 
-#sylhet:hover path.st19 {
+#sylhet:hover path.wesoftpress19 {
     fill: #d5d5d5
 }
 
@@ -181,11 +174,11 @@
     fill: #9a1515
 }
 
-#rajshahi:hover path.st17 {
+#rajshahi:hover path.wesoftpress17 {
     fill: #fff
 }
 
-#rajshahi:hover path.st19 {
+#rajshahi:hover path.wesoftpress19 {
     fill: #d5d5d5
 }
 
@@ -193,11 +186,11 @@
     fill: #9a1515
 }
 
-#khulna:hover path.st17 {
+#khulna:hover path.wesoftpress17 {
     fill: #fff
 }
 
-#khulna:hover path.st19 {
+#khulna:hover path.wesoftpress19 {
     fill: #d5d5d5
 }
 
@@ -205,11 +198,11 @@
     fill: #9a1515
 }
 
-#borishal:hover path.st17 {
+#borishal:hover path.wesoftpress17 {
     fill: #fff
 }
 
-#borishal:hover path.st19 {
+#borishal:hover path.wesoftpress19 {
     fill: #d5d5d5
 }
 
@@ -217,11 +210,11 @@
     fill: #9a1515
 }
 
-#chittagong:hover path.st17 {
+#chittagong:hover path.wesoftpress17 {
     fill: #fff
 }
 
-#chittagong:hover path.st19 {
+#chittagong:hover path.wesoftpress19 {
     fill: #d5d5d5
 }
 
@@ -229,21 +222,12 @@
     fill: #9a1515
 }
 
-#dhaka:hover path.st17 {
+#dhaka:hover path.wesoftpress17 {
     fill: #fff
 }
 
-#dhaka:hover path.st19 {
+#dhaka:hover path.wesoftpress19 {
     fill: #d5d5d5
-}
-
-div.catTitle {
-    width: 100%;
-    border-bottom: 1px solid #fe0104;
-    line-height: 36px;
-    margin-bottom: 0;
-    padding: 5px 7px;
-    font-size: calc(1em + 1vw);
 }
 
 p.submit {

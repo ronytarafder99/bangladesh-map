@@ -1,13 +1,12 @@
-<?php function theme_options_panel()
-{
+<?php
+function theme_options_panel(){
     add_menu_page('Theme page title', 'Map Settings', 'manage_options', 'theme-options', 'wps_theme_func', 'dashicons-welcome-widgets-menus', 5);
     add_submenu_page('theme-options', 'Settings page title', 'Maps Links', 'manage_options', 'theme-op-settings', 'wps_theme_func_settings');
     add_submenu_page('theme-options', 'installation', 'Installation', 'manage_options', 'theme-op-faq', 'wps_theme_func_faq');
 }
 add_action('admin_menu', 'theme_options_panel');
 
-function wps_theme_func()
-{ ?>
+function wps_theme_func(){ ?>
 
     <div class="wrap">
         <h2>Map Title Options</h2>
@@ -304,8 +303,7 @@ function wps_theme_func()
     </div>
 
 <?php }
-function wps_theme_func_settings()
-{ ?>
+function wps_theme_func_settings(){ ?>
 
     <div class="wrap">
         <h2>Map Links Options</h2>
@@ -385,8 +383,7 @@ function wps_theme_func_settings()
     </div>
 
 <?php }
-function wps_theme_func_faq()
-{ ?>
+function wps_theme_func_faq(){ ?>
     <div class="wrap">
         <h2>Installation</h2>
         <p><strong>Customization</strong></p>
